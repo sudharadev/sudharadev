@@ -1,12 +1,12 @@
 # Hi, I'm Sudhara Lakshan! 👋
 
-Founder of Frinobit (Pvt) Ltd, Konact (Pvt) Ltd, and Outstree Limited (UK). Tech Lead leading my teams to drive innovation, Guide my team in building impactful solutions at the crossroads of Business and Technology. Have worked as a Full Stack Developer with expertise in MERN Stack and Server Administration.
+Founder of Frinobit (Pvt) Ltd, Konact (Pvt) Ltd, and Outstree Limited (UK). Tech Lead leading my teams to drive innovation and guide my team in building impactful solutions at the crossroads of Business and Technology. Have worked as a Full Stack Developer with expertise in MERN Stack and Server Administration.
 
 ## 🚀 About Me
 
 - 🎓 Studied Digital Marketing at the Asia Pacific Institute of Digital Marketing (APIDM).
 - 💻 Studied Software Engineering at ESOFT Metro Campus.
-- 🤖 Completed AI Engineering coursework at Scrimba, expanding my expertise in cutting-edge technologies.
+- 🤖 Completed AI Engineering & Frontend Development coursework at Scrimba.
 
 
 ## Tech Stack
@@ -25,7 +25,7 @@ Founder of Frinobit (Pvt) Ltd, Konact (Pvt) Ltd, and Outstree Limited (UK). Tech
 
 ## 📬 Get in Touch
 
-- Connect with me on [Telegram](https://t.me/sudharadev), [Discord](https://discordapp.com/users/sudharadev)
-- Read more of my articles on [sudhara.dev](https://sudhara.dev)
+- Get in touch with me on [Telegram](https://t.me/sudharadev), [Discord](https://discordapp.com/users/sudharadev)
+- Learn more about me on [sudhara.dev](https://sudhara.dev)
 
 Let’s connect and dive into the exciting realm of technology together. 🚀
