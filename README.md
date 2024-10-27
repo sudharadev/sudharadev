@@ -1,8 +1,8 @@
-# Hi, I'm <YOUR NAME>! 👋
+# Hi, I'm Sudhara Lakshan! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Founder of Frinobit (Pvt) Ltd, Konact (Pvt) Ltd, and Outstree Limited (UK). Tech Lead leading my teams to drive innovation, Guide my team in building impactful solutions at the crossroads of Business and Technology. Have worked as a Full Stack Developer with expertise in MERN Stack and Server Administration.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![sudharadev's Stats](https://github-readme-stats.vercel.app/api?username=sudharadev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
