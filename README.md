@@ -10,7 +10,7 @@ I am the Founder of Frinobit (Pvt) Ltd, Konact (Pvt) Ltd, and Outstree Limited (
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,mongodb,tailwind,express,vue,figma,js,html,css,jquery,php,wordpress,ubuntu,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,mongodb,tailwind,express,vite,figma,js,html,css,jquery,php,wordpress,ubuntu,aws)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
