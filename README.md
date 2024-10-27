@@ -12,7 +12,9 @@ I am the Founder of Frinobit (Pvt) Ltd, Konact (Pvt) Ltd, and Outstree Limited (
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,mongodb,tailwind,express,vue,figma,js,html,css,jquery,php,wordpress,ubuntu,aws)](https://skillicons.dev)
 
-## 🚀 Revolutionizing User Expiriences
+## 🌱 Currently Exploring
+
+🚀 Revolutionizing User Expiriences
 
 I actively engage with the MERN stack to develop interactive web applications that enhance user experiences through intuitive definition creation. Leveraging the power of Node.js and the Express library, I build scalable back-end solutions capable of managing real-time data effectively. My collaboration with MongoDB ensures seamless data integration and management in modern web environments.
 
