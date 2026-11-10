@@ -53,6 +53,12 @@ const sudhara = {
 <img src="icons/illustrator.svg" height="30" title="Illustrator" alt="Illustrator" />&nbsp;
 <img src="icons/procreate.png" height="30" title="Procreate" alt="Procreate" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg" />
+  <img src="assets/snake-dark.svg" alt="A snake eating green blocks that spell SUDHARA" width="100%" />
+</picture>
+
 ## Education
 
 - **Software Engineering**, ESOFT Metro Campus
