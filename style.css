@@ -82,8 +82,8 @@ img { display: block; }
 /* ---------- Top bar ---------- */
 .top { display: flex; justify-content: space-between; align-items: center; padding: 20px 28px; }
 .logo { display: inline-flex; align-items: center; color: var(--ink); }
-.logo svg { display: block; height: 14px; width: auto; }
-.logo .logo__slash { stroke: var(--accent); }
+.logo svg { display: block; }
+.logo .logo__slash { fill: var(--accent); }
 .theme-toggle {
   position: relative; width: 38px; height: 38px; display: grid; place-items: center; cursor: pointer;
   border-radius: 10px; border: 1px solid var(--line); background: var(--chip); color: var(--ink);
