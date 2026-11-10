@@ -14,24 +14,17 @@
 </p>
 
 <br/>
-
 I build web products end to end: the database, the API, the interface and the brand around it. Mostly **React** and **Next.js** on the front, **Node.js** behind it, deployed on servers I set up myself. I also design, so what ships looks the way it was meant to.
-
-Right now I run three companies across Sri Lanka and the UK, and take on a few freelance and remote projects alongside.
 
 ```ts
 const sudhara = {
   based:    "Colombo, Sri Lanka (UTC+5:30)",
-  building: ["Frinobit", "Konact", "Outstree (UK)"],
-  role:     "Founder & Tech Lead",
   focus:    ["React", "Next.js", "Node.js", "UI/UX", "Branding"],
-  shipping: "ledgerr.co",
   openTo:   ["freelance", "remote", "interesting problems"],
 };
 ```
 
 <br/>
-
 ## What I do
 
 <table>
@@ -57,73 +50,39 @@ const sudhara = {
   </tr>
 </table>
 
-## Currently building
-
-<table>
-  <tr>
-    <td width="72" align="center"><a href="https://ledgerr.co"><img src="icons/ledgerr.svg" width="44" alt="Ledgerr" /></a></td>
-    <td>
-      <a href="https://ledgerr.co"><b>Ledgerr</b></a> &nbsp;<img src="https://img.shields.io/badge/live-22c55e?style=flat-square" alt="Live" height="18" /><br/>
-      Trading, in one place.<br/>
-      <sub><a href="https://ledgerr.co">ledgerr.co</a></sub>
-    </td>
-  </tr>
-</table>
-
-| Company | Where | Role |
-|---|---|---|
-| **Frinobit (Pvt) Ltd** | Sri Lanka | Founder, Tech Lead |
-| **Konact (Pvt) Ltd** | Sri Lanka | Founder, Tech Lead |
-| **Outstree Limited** | United Kingdom | Founder, Tech Lead |
-
 ## Stack
 
-<table>
-  <tr>
-    <td width="140"><b>Frontend</b></td>
-    <td>
-      <img src="icons/react.svg" height="30" title="React" alt="React" />&nbsp;
-      <img src="icons/nextjs.svg" height="30" title="Next.js" alt="Next.js" />&nbsp;
-      <img src="icons/typescript.svg" height="30" title="TypeScript" alt="TypeScript" />&nbsp;
-      <img src="icons/javascript.svg" height="30" title="JavaScript" alt="JavaScript" />&nbsp;
-      <img src="icons/vite.svg" height="30" title="Vite" alt="Vite" />&nbsp;
-      <img src="icons/tailwind.svg" height="30" title="Tailwind CSS" alt="Tailwind CSS" />&nbsp;
-      <img src="icons/html.svg" height="30" title="HTML/CSS" alt="HTML/CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend &amp; cloud</b></td>
-    <td>
-      <img src="icons/nodejs.svg" height="30" title="Node.js" alt="Node.js" />&nbsp;
-      <img src="icons/express.svg" height="30" title="Express" alt="Express" />&nbsp;
-      <img src="icons/mongodb.svg" height="30" title="MongoDB" alt="MongoDB" />&nbsp;
-      <img src="icons/php.svg" height="30" title="PHP" alt="PHP" />&nbsp;
-      <img src="icons/aws.svg" height="30" title="AWS" alt="AWS" />&nbsp;
-      <img src="icons/gcloud.svg" height="30" title="Google Cloud" alt="Google Cloud" />&nbsp;
-      <img src="icons/docker.svg" height="30" title="Docker" alt="Docker" />&nbsp;
-      <img src="icons/ubuntu.svg" height="30" title="Ubuntu" alt="Ubuntu" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>CMS &amp; commerce</b></td>
-    <td>
-      <img src="icons/wordpress.svg" height="30" title="WordPress" alt="WordPress" />&nbsp;
-      <img src="icons/shopify.svg" height="30" title="Shopify" alt="Shopify" />&nbsp;
-      <img src="icons/liquid.svg" height="30" title="Liquid" alt="Liquid" />&nbsp;
-      <img src="icons/webflow.svg" height="30" title="Webflow" alt="Webflow" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Design</b></td>
-    <td>
-      <img src="icons/figma.svg" height="30" title="Figma" alt="Figma" />&nbsp;
-      <img src="icons/sketch.svg" height="30" title="Sketch" alt="Sketch" />&nbsp;
-      <img src="icons/photoshop.svg" height="30" title="Photoshop" alt="Photoshop" />&nbsp;
-      <img src="icons/illustrator.svg" height="30" title="Illustrator" alt="Illustrator" />&nbsp;
-      <img src="icons/procreate.png" height="30" title="Procreate" alt="Procreate" />
-    </td>
-  </tr>
-</table>
+**Frontend**<br/>
+<img src="icons/react.svg" height="30" title="React" alt="React" />&nbsp;
+<img src="icons/nextjs.svg" height="30" title="Next.js" alt="Next.js" />&nbsp;
+<img src="icons/typescript.svg" height="30" title="TypeScript" alt="TypeScript" />&nbsp;
+<img src="icons/javascript.svg" height="30" title="JavaScript" alt="JavaScript" />&nbsp;
+<img src="icons/vite.svg" height="30" title="Vite" alt="Vite" />&nbsp;
+<img src="icons/tailwind.svg" height="30" title="Tailwind CSS" alt="Tailwind CSS" />&nbsp;
+<img src="icons/html.svg" height="30" title="HTML/CSS" alt="HTML/CSS" />
+
+**Backend &amp; cloud**<br/>
+<img src="icons/nodejs.svg" height="30" title="Node.js" alt="Node.js" />&nbsp;
+<img src="icons/express.svg" height="30" title="Express" alt="Express" />&nbsp;
+<img src="icons/mongodb.svg" height="30" title="MongoDB" alt="MongoDB" />&nbsp;
+<img src="icons/php.svg" height="30" title="PHP" alt="PHP" />&nbsp;
+<img src="icons/aws.svg" height="30" title="AWS" alt="AWS" />&nbsp;
+<img src="icons/gcloud.svg" height="30" title="Google Cloud" alt="Google Cloud" />&nbsp;
+<img src="icons/docker.svg" height="30" title="Docker" alt="Docker" />&nbsp;
+<img src="icons/ubuntu.svg" height="30" title="Ubuntu" alt="Ubuntu" />
+
+**CMS &amp; commerce**<br/>
+<img src="icons/wordpress.svg" height="30" title="WordPress" alt="WordPress" />&nbsp;
+<img src="icons/shopify.svg" height="30" title="Shopify" alt="Shopify" />&nbsp;
+<img src="icons/liquid.svg" height="30" title="Liquid" alt="Liquid" />&nbsp;
+<img src="icons/webflow.svg" height="30" title="Webflow" alt="Webflow" />
+
+**Design**<br/>
+<img src="icons/figma.svg" height="30" title="Figma" alt="Figma" />&nbsp;
+<img src="icons/sketch.svg" height="30" title="Sketch" alt="Sketch" />&nbsp;
+<img src="icons/photoshop.svg" height="30" title="Photoshop" alt="Photoshop" />&nbsp;
+<img src="icons/illustrator.svg" height="30" title="Illustrator" alt="Illustrator" />&nbsp;
+<img src="icons/procreate.png" height="30" title="Procreate" alt="Procreate" />
 
 ## Activity
 
@@ -149,5 +108,3 @@ Have a product to build or a brand to shape? The fastest way to reach me is [Wha
 <a href="https://www.linkedin.com/in/sudharadev"><img src="icons/linkedin.svg" height="24" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sudharadev"><img src="icons/instagram.svg" height="24" alt="Instagram" /></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/sudharadev"><img src="icons/facebook.svg" height="24" alt="Facebook" /></a>
-
-<sub>Full profile at <a href="https://sudhara.dev">sudhara.dev</a></sub>

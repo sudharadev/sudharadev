@@ -51,8 +51,8 @@
     <text x="824" y="156" class="outp" opacity="0">sudhara lakshan, full stack developer<animate attributeName="opacity" from="0" to="1" begin="0.85s" dur="0.25s" fill="freeze"/></text>
     <text x="824" y="180" class="cmd" opacity="0"><tspan class="acc">$ </tspan>cat location<animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.25s" fill="freeze"/></text>
     <text x="824" y="204" class="outp" opacity="0">Colombo, Sri Lanka  (UTC+5:30)<animate attributeName="opacity" from="0" to="1" begin="1.55s" dur="0.25s" fill="freeze"/></text>
-    <text x="824" y="228" class="cmd" opacity="0"><tspan class="acc">$ </tspan>ls ./companies<animate attributeName="opacity" from="0" to="1" begin="1.90s" dur="0.25s" fill="freeze"/></text>
-    <text x="824" y="252" class="outp" opacity="0">frinobit/  konact/  outstree/<animate attributeName="opacity" from="0" to="1" begin="2.25s" dur="0.25s" fill="freeze"/></text>
+    <text x="824" y="228" class="cmd" opacity="0"><tspan class="acc">$ </tspan>ls ./stack<animate attributeName="opacity" from="0" to="1" begin="1.90s" dur="0.25s" fill="freeze"/></text>
+    <text x="824" y="252" class="outp" opacity="0">react/  next/  node/  figma/<animate attributeName="opacity" from="0" to="1" begin="2.25s" dur="0.25s" fill="freeze"/></text>
     <text x="824" y="276" class="cmd" opacity="0"><tspan class="acc">$ </tspan>status --now<animate attributeName="opacity" from="0" to="1" begin="2.60s" dur="0.25s" fill="freeze"/></text>
     <text x="824" y="300" class="outp" opacity="0"><tspan class="ok">&#9679; </tspan>available for new projects<animate attributeName="opacity" from="0" to="1" begin="2.95s" dur="0.25s" fill="freeze"/></text>
       <rect x="824" y="310" width="9" height="17" fill="#c97a00" opacity="0">
