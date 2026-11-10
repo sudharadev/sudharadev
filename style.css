@@ -79,8 +79,8 @@ img { display: block; }
 
 /* ---------- Top bar ---------- */
 .top { display: flex; justify-content: space-between; align-items: center; padding: 20px 28px; }
-.logo { font: 700 15px var(--sans); letter-spacing: -0.01em; color: var(--ink); }
-.logo span { color: var(--accent); font-style: italic; margin-right: 2px; }
+.logo { font: 600 15px var(--sans); letter-spacing: -0.01em; color: var(--ink); }
+.logo span { color: var(--accent); font-style: italic; font-weight: 700; margin-right: 2px; }
 .theme-toggle {
   position: relative; width: 38px; height: 38px; display: grid; place-items: center; cursor: pointer;
   border-radius: 10px; border: 1px solid var(--line); background: var(--chip); color: var(--ink);
