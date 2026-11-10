@@ -53,14 +53,6 @@ const sudhara = {
 <img src="icons/illustrator.svg" height="30" title="Illustrator" alt="Illustrator" />&nbsp;
 <img src="icons/procreate.png" height="30" title="Procreate" alt="Procreate" />
 
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudharadev/sudharadev/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudharadev/sudharadev/output/snake.svg" />
-  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/sudharadev/sudharadev/output/snake.svg" width="100%" />
-</picture>
-
 ## Education
 
 - **Software Engineering**, ESOFT Metro Campus
