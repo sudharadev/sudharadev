@@ -99,13 +99,17 @@ img { display: block; }
 .page { flex: 1; width: 100%; max-width: 560px; margin: 0 auto; padding: 28px 20px 80px; }
 .avatar { width: 56px; height: 56px; border-radius: 14px; object-fit: cover; }
 .intro h1 { margin: 22px 0 14px; font: 600 1.6rem/1.25 var(--sans); letter-spacing: -0.02em; color: var(--ink); }
-.name {
-  --mark: color-mix(in srgb, var(--accent) 24%, transparent);
-  color: var(--accent); white-space: nowrap; padding: 0 0.14em; margin: 0 -0.14em; border-radius: 0.18em;
-  background: linear-gradient(var(--mark), var(--mark)) no-repeat 0 72% / 0% 46%;
-  animation: mark 0.8s cubic-bezier(0.65, 0, 0.35, 1) 0.95s forwards;
+.name { position: relative; color: var(--accent); white-space: nowrap; }
+/* Hand-drawn stroke: SVG used as a mask so it takes the text color; revealed left to right with clip-path. */
+.name::after {
+  content: ""; position: absolute; left: -3%; right: -3%; bottom: -0.3em; height: 0.36em;
+  background: currentColor;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 12' preserveAspectRatio='none'%3E%3Cpath d='M3 8.5C40 4 78 3.4 112 4.8S168 8 197 3.6' fill='none' stroke='%23000' stroke-width='3.2' stroke-linecap='round'/%3E%3C/svg%3E") no-repeat 0 0 / 100% 100%;
+          mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 12' preserveAspectRatio='none'%3E%3Cpath d='M3 8.5C40 4 78 3.4 112 4.8S168 8 197 3.6' fill='none' stroke='%23000' stroke-width='3.2' stroke-linecap='round'/%3E%3C/svg%3E") no-repeat 0 0 / 100% 100%;
+  clip-path: inset(0 100% 0 0);
+  animation: pen 0.85s cubic-bezier(0.65, 0, 0.35, 1) 0.95s forwards;
 }
-@keyframes mark { to { background-size: 100% 46%; } }
+@keyframes pen { to { clip-path: inset(0 0 0 0); } }
 .wave { display: inline-block; transform-origin: 70% 70%; animation: wave 2.6s ease-in-out 1.2s infinite; }
 @keyframes wave { 0%, 60%, 100% { transform: rotate(0); } 10%, 30% { transform: rotate(14deg); } 20%, 40% { transform: rotate(-8deg); } }
 .lines p + p { margin-top: 2px; }
@@ -209,7 +213,7 @@ button.chip { font: inherit; font-size: 12.5px; border: 0; cursor: pointer; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; }
   .in { opacity: 1; }
-  .name { background-size: 100% 46%; }
+  .name::after { clip-path: none; }
 }
 
 .nowrap { white-space: nowrap; }
