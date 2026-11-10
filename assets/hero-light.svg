@@ -15,8 +15,7 @@
   <style>
     .name{font:700 64px ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#111111;letter-spacing:-2px}
     .label{font:500 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#8a8a8a;letter-spacing:.5px}
-    .lead{font:500 26px ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#2a2a2a}
-    .role{font:600 26px ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#c97a00}
+    .lead{font:500 28px ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#2a2a2a} .caret{font-weight:300;fill:#8a8a8a}
     .small{font:400 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#8a8a8a}
     .cmd{font:500 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#111111}
     .outp{font:400 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#8a8a8a}
@@ -35,11 +34,54 @@
     <circle cx="70" cy="83" r="5" fill="#15803d"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
     <text x="86" y="88" class="label">COLOMBO, LK  /  OPEN TO FREELANCE &amp; REMOTE</text>
     <text x="62" y="160" class="name">Sudhara Lakshan</text>
-    <text x="64" y="200" class="lead">Full Stack Developer</text>
-    <text x="64" y="234" class="role" opacity="1">React &amp; Next.js<animate attributeName="opacity" values="1;1;1;1;0;0" keyTimes="0;0.0444;0.0444;0.2889;0.3333;1" dur="9s" repeatCount="indefinite"/></text>
-    <text x="64" y="234" class="role" opacity="0">UI/UX &amp; Brand Design<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3333;0.3778;0.6222;0.6667;1.0000" dur="9s" repeatCount="indefinite"/></text>
-    <text x="64" y="234" class="role" opacity="0">Linux, Docker &amp; Cloud<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6667;0.7111;0.9556;1.0000;1.0000" dur="9s" repeatCount="indefinite"/></text>
-    <text x="64" y="296" class="small">sudhara.dev  &#183;  hello@sudhara.dev</text>
+    <text x="64" y="206" class="lead" opacity="1"><tspan class="caret">|</tspan><animate attributeName="opacity" values="1;0" keyTimes="0;0.08475" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">F<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.08475;0.09915" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Fu<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.09915;0.11356" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Ful<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.11356;0.12797" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.12797;0.14237" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full <tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.14237;0.15678" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full S<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.15678;0.17119" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full St<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.17119;0.18559" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Sta<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.18559;0.20000" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stac<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.20000;0.21441" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.21441;0.22881" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack <tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.22881;0.24322" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack D<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.24322;0.25763" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack De<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.25763;0.27203" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Dev<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.27203;0.28644" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Deve<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.28644;0.30085" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Devel<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.30085;0.31525" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Develo<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.31525;0.32966" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Develop<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.32966;0.34407" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Develope<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.34407;0.35847" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Developer<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.35847;0.37288" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Developer<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.37288;0.45763" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Developer<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.45763;0.54237" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Developer<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.54237;0.62712" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Developer<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.62712;0.71186" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Developer<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.71186;0.79661" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Developer<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.79661;0.88136" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Develope<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.88136;0.88729" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Develop<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.88729;0.89322" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Develo<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.89322;0.89915" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Devel<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.89915;0.90508" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Deve<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.90508;0.91102" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack Dev<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.91102;0.91695" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack De<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.91695;0.92288" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack D<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.92288;0.92881" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack <tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.92881;0.93475" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stack<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.93475;0.94068" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Stac<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.94068;0.94661" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full Sta<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.94661;0.95254" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full St<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.95254;0.95847" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full S<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.95847;0.96441" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full <tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.96441;0.97034" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Full<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.97034;0.97627" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Ful<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.97627;0.98220" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">Fu<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.98220;0.98814" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0">F<tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.98814;0.99407" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="206" class="lead" opacity="0"><tspan class="caret">|</tspan><animate attributeName="opacity" values="0;1" keyTimes="0;0.99407" calcMode="discrete" dur="5.900s" repeatCount="indefinite"/></text>
+    <text x="64" y="272" class="small">sudhara.dev  &#183;  hello@sudhara.dev</text>
 
     <g>
       <rect x="800" y="56" width="420" height="280" rx="14" fill="#fafaf9" stroke="#e6e6e6"/>
