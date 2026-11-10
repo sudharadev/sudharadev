@@ -1,72 +1,29 @@
-<!--
-  GitHub profile README for Sudhara (github.com/sudharadev).
-  Lives in the public repo sudharadev/sudharadev together with the website
-  (index.html) that GitHub Pages serves at https://sudhara.dev — see DEPLOY.md.
-  Icons are loaded from the icons/ folder in this same repo.
--->
+# Hi, I'm Sudhara Lakshan! 👋
 
-<img src="https://github.com/sudharadev.png" width="64" height="64" alt="Sudhara" align="left" />
+I am the Founder of Frinobit (Pvt) Ltd, Konact (Pvt) Ltd, and Outstree Limited (UK), currently leading my teams as the Tech Lead Head. With extensive experience as a Full-Stack Developer specializing in the MERN Stack and Server Administration, I continue to guide and collaborate with my team to build innovative, business-driven solutions.
 
-### Hey, I'm Sudhara! 👋
+## 🎓 Education
 
-`Senior full-stack developer focused on React & Next.js, with a designer's eye for UI/UX and branding. Based in Colombo, Sri Lanka` <img src="icons/flag-lk.svg" height="14" alt="Sri Lanka" />
+- ✨ Studied Digital Marketing at the Asia Pacific Institute of Digital Marketing (APIDM).
+- 💻 Studied Software Engineering at ESOFT Metro Campus.
+- 🤖 Completed AI Engineering & Frontend Development coursework at Scrimba.
 
-<p>
-  <a href="https://sudhara.dev"><img src="https://img.shields.io/badge/sudhara.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:hello@sudhara.dev"><img src="https://img.shields.io/badge/Send%20an%20email-f5a524?style=for-the-badge&logo=maildotru&logoColor=111111" alt="Send an email" /></a>
-</p>
 
-🟢 `Available for new projects, let's talk!`
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,mongodb,tailwind,express,vite,figma,js,html,css,jquery,php,wordpress,ubuntu,aws)](https://skillicons.dev)
 
----
+## 🌱 Currently Exploring
 
-#### TECH STACK
-`The tech stack I use for my personal and client work:`
+🚀 Revolutionizing User Expiriences
 
-<img src="icons/react.svg" height="16" /> React &nbsp;
-<img src="icons/nodejs.svg" height="16" /> Node.js &nbsp;
-<img src="icons/nextjs.svg" height="16" /> Next.js &nbsp;
-<img src="icons/typescript.svg" height="16" /> TypeScript &nbsp;
-<img src="icons/javascript.svg" height="16" /> JavaScript &nbsp;
-<img src="icons/vite.svg" height="16" /> Vite &nbsp;
-<img src="icons/tailwind.svg" height="16" /> Tailwind CSS &nbsp;
-<img src="icons/aws.svg" height="16" /> AWS &nbsp;
-<img src="icons/gcloud.svg" height="16" /> Google Cloud &nbsp;
-<img src="icons/docker.svg" height="16" /> Docker &nbsp;
-<img src="icons/ubuntu.svg" height="16" /> Ubuntu &nbsp;
-<img src="icons/html.svg" height="16" /> Vanilla HTML/CSS &nbsp;
-<img src="icons/wordpress.svg" height="16" /> WordPress &nbsp;
-<img src="icons/php.svg" height="16" /> PHP &nbsp;
-<img src="icons/shopify.svg" height="16" /> Shopify &nbsp;
-<img src="icons/liquid.svg" height="16" /> Liquid &nbsp;
-<img src="icons/webflow.svg" height="16" /> Webflow
+I actively engage with the MERN stack to develop interactive web applications that enhance user experiences through intuitive definition creation. Leveraging the power of Node.js and the Express library, I build scalable back-end solutions capable of managing real-time data effectively. My collaboration with MongoDB ensures seamless data integration and management in modern web environments.
 
-#### DESIGN TOOLS
-`For UI/UX design:` &nbsp;
-<img src="icons/figma.svg" height="16" /> Figma &nbsp;
-<img src="icons/sketch.svg" height="16" /> Sketch
+On the front end, I am passionate about creating interactive, smooth, and animated experiences using React and GSAP, with a strong emphasis on efficient state management. I utilize React Router to facilitate intuitive navigation and dynamic content rendering. Staying attuned to the latest tech trends allows me to implement cutting-edge features and best practices in my projects.
 
-`For branding:` &nbsp;
-<img src="icons/photoshop.svg" height="16" /> Photoshop &nbsp;
-<img src="icons/illustrator.svg" height="16" /> Illustrator &nbsp;
-<img src="icons/procreate.png" height="16" /> Procreate
 
-#### PROJECTS
-`Products I have designed and built:`
+## 📬 Get in Touch
 
-| | Project | Status | About |
-|:-:|---|:-:|---|
-| <img src="icons/ledgerr.svg" width="20" /> | [**Ledgerr**](https://ledgerr.co) | ![Live](https://img.shields.io/badge/Live-dcfce7?style=flat-square) | The trading, in one place! |
+- Get in touch with me on [Telegram](https://t.me/sudharadev), [Discord](https://discordapp.com/users/sudharadev)
+- Learn more about me on [sudhara.dev](https://sudhara.dev)
 
-#### FIND ME ON
-
-<a href="https://github.com/sudharadev"><img src="icons/github.svg" height="16" /> GitHub</a> &nbsp;
-<a href="https://www.linkedin.com/in/sudharadev"><img src="icons/linkedin.svg" height="16" /> LinkedIn</a> &nbsp;
-<a href="https://www.facebook.com/sudharadev"><img src="icons/facebook.svg" height="16" /> Facebook</a> &nbsp;
-<a href="https://www.instagram.com/sudharadev"><img src="icons/instagram.svg" height="16" /> Instagram</a> &nbsp;
-<img src="icons/discord.svg" height="16" /> Discord: `sudharadev`
-
-#### GET IN TOUCH
-`You can reach me anytime at` **[hello@sudhara.dev](mailto:hello@sudhara.dev)**
-
-<sub>Built with ♥ by Sudhara · <a href="https://sudhara.dev">sudhara.dev</a></sub>
+Let’s connect and dive into the exciting realm of technology together. 🚀
