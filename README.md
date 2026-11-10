@@ -53,6 +53,8 @@ const sudhara = {
 <img src="icons/illustrator.svg" height="30" title="Illustrator" alt="Illustrator" />&nbsp;
 <img src="icons/procreate.png" height="30" title="Procreate" alt="Procreate" />
 
+## Always shipping
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg" />
