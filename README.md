@@ -6,6 +6,9 @@
   </picture>
 </a>
 
+<br/>
+<br/>
+
 <p align="center">
   <a href="https://sudhara.dev"><img src="https://img.shields.io/badge/sudhara.dev-0b0b0c?style=for-the-badge&logo=googlechrome&logoColor=f5a524" alt="Website" /></a>
   <a href="https://wa.me/94757817059"><img src="https://img.shields.io/badge/Book%20a%20call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Book a call on WhatsApp" /></a>
@@ -14,6 +17,7 @@
 </p>
 
 <br/>
+
 I build web products end to end: the database, the API, the interface and the brand around it. Mostly **React** and **Next.js** on the front, **Node.js** behind it, deployed on servers I set up myself. I also design, so what ships looks the way it was meant to.
 
 ```ts
@@ -25,30 +29,6 @@ const sudhara = {
 ```
 
 <br/>
-## What I do
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Full-stack web apps</h4>
-      React, Next.js and Node.js, from schema design to an animated, accessible UI.
-    </td>
-    <td width="50%" valign="top">
-      <h4>UI/UX and branding</h4>
-      Interfaces, design systems and brand identities, designed in Figma and built in code.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Infrastructure</h4>
-      Linux servers, Docker, AWS and Google Cloud. Deploys I can debug at 2am.
-    </td>
-    <td width="50%" valign="top">
-      <h4>Leading teams</h4>
-      Taking products from idea to launch as founder and tech lead.
-    </td>
-  </tr>
-</table>
 
 ## Stack
 
