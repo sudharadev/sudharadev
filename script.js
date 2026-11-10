@@ -4,13 +4,25 @@
   var toggle = document.querySelector(".theme-toggle");
   var meta = document.querySelector('meta[name="theme-color"]');
 
-  function setTheme(theme) {
-    // Brief class lets colors cross-fade without animating on first load.
+  var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+
+  function applyTheme(theme) {
+    // Freeze element transitions so nothing keeps fading after the page swap.
     root.classList.add("theming");
     root.setAttribute("data-theme", theme);
     if (meta) meta.setAttribute("content", theme === "light" ? "#ffffff" : "#0b0b0c");
+    requestAnimationFrame(function () { requestAnimationFrame(function () { root.classList.remove("theming"); }); });
+  }
+
+  function setTheme(theme) {
     try { localStorage.setItem("theme", theme); } catch { /* storage blocked: theme still applies for this visit */ }
-    setTimeout(function () { root.classList.remove("theming"); }, 400);
+    // One GPU cross-fade of the whole page, so every color changes at the same moment.
+    // Per-element color transitions finished at different times on slower phones.
+    if (document.startViewTransition && !reduceMotion.matches) {
+      document.startViewTransition(function () { applyTheme(theme); });
+    } else {
+      applyTheme(theme);
+    }
   }
 
   function flip() {
@@ -28,22 +40,6 @@
     if (key === "t") return flip();
     var link = document.querySelector('[data-key="' + key + '"]');
     if (link) link.click();
-  });
-
-  // Copy-to-clipboard chips (e.g. Discord username, which has no public profile URL)
-  document.querySelectorAll("[data-copy]").forEach(function (btn) {
-    var label = btn.querySelector("span");
-    var original = label ? label.textContent : "";
-    btn.addEventListener("click", function () {
-      var text = btn.getAttribute("data-copy");
-      var done = function () {
-        btn.classList.add("is-copied");
-        if (label) label.textContent = "Copied: " + text;
-        setTimeout(function () { btn.classList.remove("is-copied"); if (label) label.textContent = original; }, 1800);
-      };
-      if (navigator.clipboard) navigator.clipboard.writeText(text).then(done, done);
-      else done();
-    });
   });
 
   // ---------- Smooth scrolling (Lenis, if it loaded and motion is allowed) ----------
