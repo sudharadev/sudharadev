@@ -15,7 +15,7 @@
   <style>
     .name{font:700 64px ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#fafafa;letter-spacing:-2px}
     .label{font:500 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#7d7d82;letter-spacing:.5px}
-    .lead{font:500 28px ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#cfcfd1} .caret{font-weight:300;fill:#7d7d82}
+    .lead{font:600 28px ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#f5a524} .caret{font-weight:300;fill:#7d7d82}
     .small{font:400 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#7d7d82}
     .cmd{font:500 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#fafafa}
     .outp{font:400 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#7d7d82}

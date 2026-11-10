@@ -1,8 +1,8 @@
 <a href="https://sudhara.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=5" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg?v=5" />
-    <img src="assets/hero-dark.svg?v=5" alt="Sudhara Lakshan, Full Stack Developer from Colombo, LK" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=6" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg?v=6" />
+    <img src="assets/hero-dark.svg?v=6" alt="Sudhara Lakshan, Full Stack Developer from Colombo, LK" width="100%" />
   </picture>
 </a>
 
