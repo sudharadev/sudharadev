@@ -42,6 +42,22 @@
     if (link) link.click();
   });
 
+  // Copy-to-clipboard chips (e.g. Discord username, which has no public profile URL)
+  document.querySelectorAll("[data-copy]").forEach(function (btn) {
+    var label = btn.querySelector("span");
+    var original = label ? label.textContent : "";
+    btn.addEventListener("click", function () {
+      var text = btn.getAttribute("data-copy");
+      var done = function () {
+        btn.classList.add("is-copied");
+        if (label) label.textContent = "Copied: " + text;
+        setTimeout(function () { btn.classList.remove("is-copied"); if (label) label.textContent = original; }, 1800);
+      };
+      if (navigator.clipboard) navigator.clipboard.writeText(text).then(done, done);
+      else done();
+    });
+  });
+
   // ---------- Smooth scrolling (Lenis, if it loaded and motion is allowed) ----------
   var lenis = null;
   var reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;

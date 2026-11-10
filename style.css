@@ -100,11 +100,12 @@ img { display: block; }
 .avatar { width: 56px; height: 56px; border-radius: 14px; object-fit: cover; }
 .intro h1 { margin: 22px 0 14px; font: 600 1.6rem/1.25 var(--sans); letter-spacing: -0.02em; color: var(--ink); }
 .name { position: relative; color: var(--accent); white-space: nowrap; }
-.name::after {
-  content: ""; position: absolute; left: 0; right: 0; bottom: -1px; height: 2px; background: currentColor;
-  transform: scaleX(0); transform-origin: left; animation: draw 0.9s var(--ease) 0.9s forwards;
+.pen { position: absolute; left: -2%; bottom: -0.32em; width: 104%; height: 0.42em; overflow: visible; pointer-events: none; }
+.pen path {
+  fill: none; stroke: currentColor; stroke-width: 2.4; stroke-linecap: round; vector-effect: non-scaling-stroke;
+  stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 0.85s cubic-bezier(0.65, 0, 0.35, 1) 0.95s forwards;
 }
-@keyframes draw { to { transform: scaleX(1); } }
+@keyframes draw { to { stroke-dashoffset: 0; } }
 .wave { display: inline-block; transform-origin: 70% 70%; animation: wave 2.6s ease-in-out 1.2s infinite; }
 @keyframes wave { 0%, 60%, 100% { transform: rotate(0); } 10%, 30% { transform: rotate(14deg); } 20%, 40% { transform: rotate(-8deg); } }
 .lines p + p { margin-top: 2px; }
@@ -148,6 +149,7 @@ kbd {
 }
 .chip:hover { transform: translateY(-2px) rotate(-1deg); background: var(--chip-hover); box-shadow: 0 6px 14px -8px var(--shadow); }
 .chip i.glyph { background: var(--card); color: var(--ink); border: 1px solid var(--line); font-size: 9px; }
+.chip.is-copied { background: var(--badge-green-bg); color: var(--badge-green); }
 .chip img, .inline-chip img { display: block; width: 16px; height: 16px; object-fit: contain; flex-shrink: 0; }
 .inline-chip img { width: 14px; height: 14px; }
 /* Dark-colored logos get a light tile in dark mode so they stay visible. */
@@ -207,7 +209,7 @@ button.chip { font: inherit; font-size: 12.5px; border: 0; cursor: pointer; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; }
   .in { opacity: 1; }
-  .name::after { transform: none; }
+  .pen path { stroke-dashoffset: 0; }
 }
 
 .nowrap { white-space: nowrap; }

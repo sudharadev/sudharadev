@@ -84,7 +84,7 @@ Have a product to build or a brand to shape? The fastest way to reach me is [Wha
 
 <a href="https://wa.me/94757817059"><img src="icons/whatsapp.svg" height="24" alt="WhatsApp" /></a>&nbsp;&nbsp;
 <a href="https://t.me/sudharadev"><img src="icons/telegram.svg" height="24" alt="Telegram" /></a>&nbsp;&nbsp;
-<a href="https://discord.com/users/sudharadev"><img src="icons/discord.svg" height="24" alt="Discord" /></a>&nbsp;&nbsp;
+<img src="icons/discord.svg" height="24" alt="Discord: sudharadev" title="Discord: sudharadev" />&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sudharadev"><img src="icons/linkedin.svg" height="24" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sudharadev"><img src="icons/instagram.svg" height="24" alt="Instagram" /></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/sudharadev"><img src="icons/facebook.svg" height="24" alt="Facebook" /></a>
