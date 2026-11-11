@@ -28,43 +28,43 @@ const sudhara = {
 
 ## Stack
 
-<img src="icons/react.svg" height="30" title="React" alt="React" />&nbsp;
-<img src="icons/nextjs.svg" height="30" title="Next.js" alt="Next.js" />&nbsp;
-<img src="icons/typescript.svg" height="30" title="TypeScript" alt="TypeScript" />&nbsp;
-<img src="icons/javascript.svg" height="30" title="JavaScript" alt="JavaScript" />&nbsp;
-<img src="icons/vite.svg" height="30" title="Vite" alt="Vite" />&nbsp;
-<img src="icons/tailwind.svg" height="30" title="Tailwind CSS" alt="Tailwind CSS" />&nbsp;
-<img src="icons/html.svg" height="30" title="HTML/CSS" alt="HTML/CSS" />&nbsp;
-<img src="icons/nodejs.svg" height="30" title="Node.js" alt="Node.js" />&nbsp;
-<img src="icons/express.svg" height="30" title="Express" alt="Express" />&nbsp;
-<img src="icons/mongodb.svg" height="30" title="MongoDB" alt="MongoDB" />&nbsp;
-<img src="icons/php.svg" height="30" title="PHP" alt="PHP" />&nbsp;
-<img src="icons/python.svg" height="30" title="Python" alt="Python" />&nbsp;
-<img src="icons/java.svg" height="30" title="Java" alt="Java" />&nbsp;
-<img src="icons/csharp.svg" height="30" title="C#" alt="C#" />&nbsp;
-<img src="icons/dotnet.svg" height="30" title=".NET" alt=".NET" />&nbsp;
-<img src="icons/cplusplus.svg" height="30" title="C++" alt="C++" />&nbsp;
-<img src="icons/swift.svg" height="30" title="Swift" alt="Swift" />&nbsp;
-<img src="icons/swift.svg" height="30" title="SwiftUI" alt="SwiftUI" />&nbsp;
-<img src="icons/objectivec.svg" height="30" title="Objective-C" alt="Objective-C" />&nbsp;
-<img src="icons/xcode.svg" height="30" title="Xcode" alt="Xcode" />&nbsp;
-<img src="icons/kotlin.svg" height="30" title="Kotlin" alt="Kotlin" />&nbsp;
-<img src="icons/jetpackcompose.svg" height="30" title="Jetpack Compose" alt="Jetpack Compose" />&nbsp;
-<img src="icons/android.svg" height="30" title="Android SDK" alt="Android SDK" />&nbsp;
-<img src="icons/androidstudio.svg" height="30" title="Android Studio" alt="Android Studio" />&nbsp;
-<img src="icons/aws.svg" height="30" title="AWS" alt="AWS" />&nbsp;
-<img src="icons/gcloud.svg" height="30" title="Google Cloud" alt="Google Cloud" />&nbsp;
-<img src="icons/docker.svg" height="30" title="Docker" alt="Docker" />&nbsp;
-<img src="icons/ubuntu.svg" height="30" title="Ubuntu" alt="Ubuntu" />&nbsp;
-<img src="icons/wordpress.svg" height="30" title="WordPress" alt="WordPress" />&nbsp;
-<img src="icons/shopify.svg" height="30" title="Shopify" alt="Shopify" />&nbsp;
-<img src="icons/liquid.svg" height="30" title="Liquid" alt="Liquid" />&nbsp;
-<img src="icons/webflow.svg" height="30" title="Webflow" alt="Webflow" />&nbsp;
-<img src="icons/figma.svg" height="30" title="Figma" alt="Figma" />&nbsp;
-<img src="icons/sketch.svg" height="30" title="Sketch" alt="Sketch" />&nbsp;
-<img src="icons/photoshop.svg" height="30" title="Photoshop" alt="Photoshop" />&nbsp;
-<img src="icons/illustrator.svg" height="30" title="Illustrator" alt="Illustrator" />&nbsp;
-<img src="icons/procreate.png" height="30" title="Procreate" alt="Procreate" />
+<img src="icons/react.svg" width="30" height="30" title="React" alt="React" />&nbsp;
+<img src="icons/nextjs.svg" width="30" height="30" title="Next.js" alt="Next.js" />&nbsp;
+<img src="icons/typescript.svg" width="30" height="30" title="TypeScript" alt="TypeScript" />&nbsp;
+<img src="icons/javascript.svg" width="30" height="30" title="JavaScript" alt="JavaScript" />&nbsp;
+<img src="icons/vite.svg" width="30" height="30" title="Vite" alt="Vite" />&nbsp;
+<img src="icons/tailwind.svg" width="30" height="30" title="Tailwind CSS" alt="Tailwind CSS" />&nbsp;
+<img src="icons/html.svg" width="30" height="30" title="HTML/CSS" alt="HTML/CSS" />&nbsp;
+<img src="icons/nodejs.svg" width="30" height="30" title="Node.js" alt="Node.js" />&nbsp;
+<img src="icons/express.svg" width="30" height="30" title="Express" alt="Express" />&nbsp;
+<img src="icons/mongodb.svg" width="30" height="30" title="MongoDB" alt="MongoDB" />&nbsp;
+<img src="icons/php.svg" width="30" height="30" title="PHP" alt="PHP" />&nbsp;
+<img src="icons/python.svg" width="30" height="30" title="Python" alt="Python" />&nbsp;
+<img src="icons/java.svg" width="30" height="30" title="Java" alt="Java" />&nbsp;
+<img src="icons/csharp.svg" width="30" height="30" title="C#" alt="C#" />&nbsp;
+<img src="icons/dotnet.svg" width="30" height="30" title=".NET" alt=".NET" />&nbsp;
+<img src="icons/cplusplus.svg" width="30" height="30" title="C++" alt="C++" />&nbsp;
+<img src="icons/swift.svg" width="30" height="30" title="Swift" alt="Swift" />&nbsp;
+<img src="icons/swift.svg" width="30" height="30" title="SwiftUI" alt="SwiftUI" />&nbsp;
+<img src="icons/objectivec.svg" width="30" height="30" title="Objective-C" alt="Objective-C" />&nbsp;
+<img src="icons/xcode.png" width="30" height="30" title="Xcode" alt="Xcode" />&nbsp;
+<img src="icons/kotlin.svg" width="30" height="30" title="Kotlin" alt="Kotlin" />&nbsp;
+<img src="icons/jetpackcompose.svg" width="30" height="30" title="Jetpack Compose" alt="Jetpack Compose" />&nbsp;
+<img src="icons/android.svg" width="30" height="30" title="Android SDK" alt="Android SDK" />&nbsp;
+<img src="icons/androidstudio.svg" width="30" height="30" title="Android Studio" alt="Android Studio" />&nbsp;
+<img src="icons/aws.svg" width="30" height="30" title="AWS" alt="AWS" />&nbsp;
+<img src="icons/gcloud.svg" width="30" height="30" title="Google Cloud" alt="Google Cloud" />&nbsp;
+<img src="icons/docker.svg" width="30" height="30" title="Docker" alt="Docker" />&nbsp;
+<img src="icons/ubuntu.svg" width="30" height="30" title="Ubuntu" alt="Ubuntu" />&nbsp;
+<img src="icons/wordpress.svg" width="30" height="30" title="WordPress" alt="WordPress" />&nbsp;
+<img src="icons/shopify.svg" width="30" height="30" title="Shopify" alt="Shopify" />&nbsp;
+<img src="icons/liquid.svg" width="30" height="30" title="Liquid" alt="Liquid" />&nbsp;
+<img src="icons/webflow.svg" width="30" height="30" title="Webflow" alt="Webflow" />&nbsp;
+<img src="icons/figma.svg" width="30" height="30" title="Figma" alt="Figma" />&nbsp;
+<img src="icons/sketch.svg" width="30" height="30" title="Sketch" alt="Sketch" />&nbsp;
+<img src="icons/photoshop.svg" width="30" height="30" title="Photoshop" alt="Photoshop" />&nbsp;
+<img src="icons/illustrator.svg" width="30" height="30" title="Illustrator" alt="Illustrator" />&nbsp;
+<img src="icons/procreate.png" width="30" height="30" title="Procreate" alt="Procreate" />
 
 ## Snack break
 
@@ -84,9 +84,9 @@ const sudhara = {
 
 Have a product to build or a brand to shape? The fastest way to reach me is [WhatsApp](https://wa.me/94757817059) or [hello@sudhara.dev](mailto:hello@sudhara.dev).
 
-<a href="https://wa.me/94757817059"><img src="icons/whatsapp.svg" height="24" alt="WhatsApp" /></a>&nbsp;&nbsp;
-<a href="https://t.me/sudharadev"><img src="icons/telegram.svg" height="24" alt="Telegram" /></a>&nbsp;&nbsp;
-<img src="icons/discord.svg" height="24" alt="Discord: sudharadev" title="Discord: sudharadev" />&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sudharadev"><img src="icons/linkedin.svg" height="24" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/kaizernq"><img src="icons/instagram.svg" height="24" alt="Instagram" /></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/sudharadev"><img src="icons/facebook.svg" height="24" alt="Facebook" /></a>
+<a href="https://wa.me/94757817059"><img src="icons/whatsapp.svg" width="24" height="24" alt="WhatsApp" /></a>&nbsp;&nbsp;
+<a href="https://t.me/sudharadev"><img src="icons/telegram.svg" width="24" height="24" alt="Telegram" /></a>&nbsp;&nbsp;
+<img src="icons/discord.svg" width="24" height="24" alt="Discord: sudharadev" title="Discord: sudharadev" />&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sudharadev"><img src="icons/linkedin.svg" width="24" height="24" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/kaizernq"><img src="icons/instagram.svg" width="24" height="24" alt="Instagram" /></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/sudharadev"><img src="icons/facebook.svg" width="24" height="24" alt="Facebook" /></a>
